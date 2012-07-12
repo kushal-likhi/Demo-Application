@@ -1,0 +1,9 @@
+package demo
+
+
+
+def ctx = context()
+
+contribute(ctx){
+     method name: "getListedActions", type: "List<java.lang.reflect.Field>"
+}
