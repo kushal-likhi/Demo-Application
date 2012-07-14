@@ -19,6 +19,8 @@
             <div style="width: 98%;border: 1px solid #ccc;margin: 5px;padding: 3px;">
                 <g:link style="text-decoration: none"
                         action="${action}">${i + 1}) ${action.replaceAll(/(^(.))|([A-Z])/, {" " + it[0].toString().toUpperCase()}).trim()}</g:link>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <g:link style="float: right;" target="_blank" controller="demo" action="${action}Demo"><button>See Working Demo</button></g:link>
             </div>
         </g:each>
     </body>

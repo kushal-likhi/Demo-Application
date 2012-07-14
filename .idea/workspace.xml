@@ -62,16 +62,55 @@
       <file leaf-file-name="toDoList.gsp" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grails-app/views/demo/toDoList.gsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="45" column="40" selection-start="1238" selection-end="1246" vertical-scroll-proportion="-9.063829">
+            <state line="11" column="47" selection-start="303" selection-end="303" vertical-scroll-proportion="-3.5106382">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="toDoListDemo.gsp" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="calculator.gsp" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/grails-app/views/demo/calculator.gsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="99" selection-start="620" selection-end="620" vertical-scroll-proportion="-0.026970955">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rajnikanthSite.gsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/views/demo/rajnikanthSite.gsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="42" column="44" selection-start="1234" selection-end="1234" vertical-scroll-proportion="-6.4948454">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.gsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/views/layouts/main.gsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="31" column="24" selection-start="1762" selection-end="1762" vertical-scroll-proportion="-2.5416667">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.gsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/views/demo/index.gsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="26" column="33" selection-start="1016" selection-end="1016" vertical-scroll-proportion="-8.297873">
+              <folding>
+                <marker date="1342223225000" expanded="true" signature="560:581" placeholder="{...}" />
+                <marker date="1342223225000" expanded="true" signature="845:858" placeholder="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="toDoListDemo.gsp" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grails-app/views/demo/toDoListDemo.gsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="17" selection-start="844" selection-end="844" vertical-scroll-proportion="0.9302326">
+            <state line="14" column="41" selection-start="287" selection-end="287" vertical-scroll-proportion="-4.4680853">
               <folding />
             </state>
           </provider>
@@ -80,7 +119,16 @@
       <file leaf-file-name="DemoController.groovy" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grails-app/controllers/demo/DemoController.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="56" column="0" selection-start="943" selection-end="943" vertical-scroll-proportion="-15.73913">
+            <state line="96" column="22" selection-start="1667" selection-end="1681" vertical-scroll-proportion="-17.434782">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="calculatorDemo.gsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/views/demo/calculatorDemo.gsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="7" selection-start="124" selection-end="124" vertical-scroll-proportion="-2.5531914">
               <folding />
             </state>
           </provider>
@@ -101,22 +149,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/grails-app/views/demo/awesomeProxy.gsp" />
-        <option value="$PROJECT_DIR$/grails-app/views/demo/toggleClass.gsp" />
-        <option value="$PROJECT_DIR$/grails-app/views/demo/customTrigger2.gsp" />
-        <option value="$PROJECT_DIR$/grails-app/views/demo/multipleEventsBindedSimultaneously.gsp" />
         <option value="$PROJECT_DIR$/grails-app/views/demo/futureEvents.gsp" />
         <option value="$PROJECT_DIR$/grails-app/views/demo/futureEventsSimulated.gsp" />
         <option value="$PROJECT_DIR$/grails-app/views/demo/cssHook.gsp" />
         <option value="$PROJECT_DIR$/application.properties" />
         <option value="$PROJECT_DIR$/grails-app/views/demo/pushStackBasic.gsp" />
-        <option value="$PROJECT_DIR$/grails-app/views/demo/index.gsp" />
         <option value="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" />
         <option value="$PROJECT_DIR$/grails-app/views/layouts/main.gsp" />
         <option value="$PROJECT_DIR$/grails-app/taglib/yo/DemoTagLib.groovy" />
-        <option value="$PROJECT_DIR$/grails-app/controllers/demo/DemoController.groovy" />
         <option value="$PROJECT_DIR$/grails-app/views/demo/toDoList.gsp" />
         <option value="$PROJECT_DIR$/grails-app/views/demo/toDoListDemo.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/views/demo/index.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/views/demo/rajnikanthSiteDemo.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/views/demo/rajnikanthSite.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/controllers/demo/DemoController.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/views/demo/calculatorDemo.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/views/demo/calculator.gsp" />
       </list>
     </option>
   </component>
@@ -350,8 +398,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -525,7 +573,6 @@
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32767403" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Grails View" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -534,9 +581,10 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32674772" sideWeight="0.67232597" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32598785" sideWeight="0.67232597" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32767403" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -634,110 +682,101 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/grails-app/views/demo/cssHook.gsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="12" selection-start="1450" selection-end="1450" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/demo/futureEventsSimulated.gsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="54" selection-start="844" selection-end="844" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/demo/awesomeProxy.gsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="36" selection-start="524" selection-end="524" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/views/demo/futureEvents.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="29" selection-start="393" selection-end="393" vertical-scroll-proportion="-3.0">
-          <folding />
-        </state>
+        <state line="19" column="29" selection-start="393" selection-end="393" vertical-scroll-proportion="-3.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/views/demo/toggleClass.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="4" selection-start="61" selection-end="61" vertical-scroll-proportion="-0.63829786">
-          <folding />
-        </state>
+        <state line="2" column="4" selection-start="61" selection-end="61" vertical-scroll-proportion="-0.63829786" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/views/demo/pushStackBasic.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="420" selection-end="420" vertical-scroll-proportion="-5.744681">
-          <folding />
-        </state>
+        <state line="18" column="0" selection-start="420" selection-end="420" vertical-scroll-proportion="-5.744681" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/views/demo/oneTimeEvent.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="49" selection-start="76" selection-end="111" vertical-scroll-proportion="-0.9574468">
-          <folding />
-        </state>
+        <state line="3" column="49" selection-start="76" selection-end="111" vertical-scroll-proportion="-0.9574468" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="20" selection-start="1611" selection-end="1611" vertical-scroll-proportion="0.7069272">
-          <folding />
-        </state>
+        <state line="41" column="20" selection-start="1611" selection-end="1611" vertical-scroll-proportion="0.7069272" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/conf/Config.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="11" selection-start="131" selection-end="131" vertical-scroll-proportion="0.1598579">
+        <state line="6" column="11" selection-start="131" selection-end="131" vertical-scroll-proportion="0.1598579" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/taglib/yo/DemoTagLib.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="14" selection-start="368" selection-end="368" vertical-scroll-proportion="0.6394316" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/layouts/main.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="24" selection-start="1762" selection-end="1762" vertical-scroll-proportion="-2.5416667">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/views/demo/index.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="8" selection-start="294" selection-end="294" vertical-scroll-proportion="0.38767394">
+        <state line="26" column="33" selection-start="1016" selection-end="1016" vertical-scroll-proportion="-8.297873">
           <folding>
-            <marker date="1342125193000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1342223225000" expanded="true" signature="560:581" placeholder="{...}" />
+            <marker date="1342223225000" expanded="true" signature="845:858" placeholder="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/layouts/main.gsp">
+    <entry file="file://$PROJECT_DIR$/grails-app/views/demo/toDoListDemo.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="24" selection-start="1762" selection-end="1762" vertical-scroll-proportion="0.92814374">
+        <state line="14" column="41" selection-start="287" selection-end="287" vertical-scroll-proportion="-4.4680853">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/taglib/yo/DemoTagLib.groovy">
+    <entry file="file://$PROJECT_DIR$/grails-app/views/demo/rajnikanthSite.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="14" selection-start="368" selection-end="368" vertical-scroll-proportion="0.6394316">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/controllers/demo/DemoController.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="0" selection-start="943" selection-end="943" vertical-scroll-proportion="-15.73913">
+        <state line="42" column="44" selection-start="1234" selection-end="1234" vertical-scroll-proportion="-6.4948454">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/views/demo/toDoList.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="40" selection-start="1238" selection-end="1246" vertical-scroll-proportion="-9.063829">
+        <state line="11" column="47" selection-start="303" selection-end="303" vertical-scroll-proportion="-3.5106382">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/demo/toDoListDemo.gsp">
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/demo/DemoController.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="17" selection-start="844" selection-end="844" vertical-scroll-proportion="0.9302326">
+        <state line="96" column="22" selection-start="1667" selection-end="1681" vertical-scroll-proportion="-17.434782">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/demo/calculatorDemo.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="7" selection-start="124" selection-end="124" vertical-scroll-proportion="-2.5531914">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/demo/calculator.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="99" selection-start="620" selection-end="620" vertical-scroll-proportion="-0.026970955">
           <folding />
         </state>
       </provider>

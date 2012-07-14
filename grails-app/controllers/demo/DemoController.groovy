@@ -58,8 +58,43 @@ class DemoController {
 
     }
 
-    @Listed
     def toDoListDemo = {
+
+    }
+
+    @Listed
+    def staticSiteNoCache = {
+        redirect(url: "http://localhost/offline-demo/nocache/site/")
+    }
+
+    def staticSiteNoCacheDemo = {
+        redirect(url: "http://localhost/offline-demo/nocache/site/")
+    }
+
+    @Listed
+    def staticSiteCached = {
+        redirect(url: "http://localhost/offline-demo/cached/site/")
+    }
+
+    def staticSiteCachedDemo = {
+        redirect(url: "http://localhost/offline-demo/cached/site/")
+    }
+
+    @Listed
+    def rajnikanthSite = {
+
+    }
+
+    def rajnikanthSiteDemo = {
+        redirect(url: "http://localhost/offline-demo/cached/rajnikanth/")
+    }
+
+    @Listed
+    def calculator = {
+
+    }
+
+    def calculatorDemo = {
 
     }
 
